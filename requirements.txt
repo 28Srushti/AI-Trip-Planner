@@ -1,0 +1,6 @@
+streamlit
+google-search-results
+phidata
+groq
+python-dotenv
+pandas
