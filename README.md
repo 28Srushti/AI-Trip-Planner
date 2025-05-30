@@ -1,4 +1,4 @@
-# 🌍 AI Travel Planner 
+# 🌍 Travel Planner with Multi-AI Agents
 An intelligent travel planning assistant that combines LLM-based reasoning, real-time web search, and local guide integration to build complete travel itineraries based on user preferences. Powered by Groq-hosted LLaMA 3.3 70B and built in Streamlit, this app delivers practical, day-wise travel plans with live links, tips, and Q&A features — all in one interactive interface.
 
 ## ✨ Highlights
